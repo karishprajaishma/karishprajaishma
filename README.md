@@ -1,4 +1,4 @@
-## Hi there 👋I am Karish Prajaishma G R
+## Hi there 👋, I'm Karish Prajaishma G R
 
 
 
