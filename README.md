@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently studying Artificial Intelligence and Data Science
+
 - 🌱 I’m currently learning  ML,DL and GenAI models
   
   
