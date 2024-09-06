@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karish Prajaishma</h1>
+
 - 🔭 I’m currently studying **Artificial Intelligence and Data Science**
 
 - 🌱 I’m currently learning about **ML,DL and GenAI models**
