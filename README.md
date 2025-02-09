@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karish Prajaishma</h1>
+<h1 align="center">Hi 👋, I'm Karish Prajaishma G R</h1>
 
 - 🔭 I’m currently studying **Artificial Intelligence and Data Science**
 
